@@ -1,3 +1,7 @@
+[![wakatime](https://wakatime.com/badge/user/65fa962a-82bb-4bf9-a686-2dc8e404f065.svg)](https://wakatime.com/@65fa962a-82bb-4bf9-a686-2dc8e404f065)
+
+---
+
 - 👋 Hi, I’m @jjpvz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
